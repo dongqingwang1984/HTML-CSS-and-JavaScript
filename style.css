@@ -1,0 +1,39 @@
+
+
+fieldset{
+    background-color:lightyellow;
+    border:10px solid yellow;
+    margin-bottom:10px;
+    width: 720px;
+}
+
+label {
+  margin-right:3px;
+  width: 180px;
+  display:inline-block;
+  text-align: right;
+  vertical-align: top;
+  }
+  
+  label:hover { font-size:20px }
+  
+  .front{
+      text-align: center;
+      background-color: #cc0000;
+      color: white;
+      
+  }
+  .back{
+      text-align: center;
+      background-color: #660065;
+      color: white;
+  }
+
+  checkbox, radio{
+      width:auto;
+  }
+  
+  textarea{
+      width:360px;
+      height:50px;
+  }
